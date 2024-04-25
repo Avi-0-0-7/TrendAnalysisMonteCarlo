@@ -5,7 +5,7 @@ pip install -r requirment
 streamlit run streamlit_app
 
 note:
-you can do changes in the code and do not have to always write step 3
+you can do changes in the code and do not have to always write step 2
 you can use rerun button on top of the streamlit window(RUNING IN THE BROWSER)
 
 mail to:- 20027avi@gmail.com,2106104@kiit.ac.in
