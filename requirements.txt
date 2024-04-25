@@ -1,0 +1,6 @@
+yfinance
+streamlit
+matplotlib
+numpy
+python-docx
+datetime
